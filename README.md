@@ -6,3 +6,4 @@
 5. send mail by lk  
 6. send short message by rocklee from dev branch
 7. write a note by rocklee form dev branch
+8. write a note on dev branch by rocklee
