@@ -11,3 +11,4 @@
 10. receive a message by lk
 11. resovle problem by rocklee2015
 12. add test by rocklee2015
+13. 直接使用commit -a 提交
